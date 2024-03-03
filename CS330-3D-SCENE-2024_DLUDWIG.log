@@ -1,0 +1,17 @@
+﻿  cylinder.cpp
+  SceneBuilder.cpp
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\SceneBuilder.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ShapeBuilder_1.2.cpp
+  Source.cpp
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Source.cpp(306,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Source.cpp(506,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Source.cpp(507,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Source.cpp(511,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Source.cpp(512,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Source.cpp(514,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Source.cpp(515,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Source.cpp(522,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Source.cpp(601,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CS330-3D-SCENE-2024_DLUDWIG.vcxproj -> C:\Users\deonn\source\repos\CS330-3D-SCENE-2024_DLUDWIG\CS330-3D-SCENE-2024_DLUDWIG\Debug\CS330-3D-SCENE-2024_DLUDWIG.exe
